@@ -43,10 +43,12 @@ The goals / steps of this project are the following:
 
 #### 1. This github repository includes these files :
 * Ipython notebook with code
-* HTML output of the code
-* A writeup report in markdown - you reading it !
-* signnames.csv file storing traffic sign names
-
+* HTML exported version of the Ipython notebook
+* A writeup report in markdown - you are reading it !
+* `signnames.csv` file storing traffic sign names
+* A directory `test_images` containing new traffic sign images to test the model on
+* A directory `outputs` containing visualizations of different steps in the code
+  
 ### Data Set Summary & Exploration
 
 #### 1. Provide a basic summary of the data set. 
